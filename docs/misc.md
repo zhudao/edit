@@ -327,8 +327,8 @@
 
 # ► Sports
 
-* 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** or [⁠EntertainMe](https://www.entertainme.fun/) - Sports Calendars
 * 🌐 **[Sports Stat Sites](https://rentry.co/7awch4b9)** - Stat Sites Index
+* 🌐 **[⁠EntertainMe](https://www.entertainme.fun/)** - Sports Calendars
 * 🌐 **[Sports Games](https://rentry.co/c7zwkv9t)** - Mock Sports Draft Game Index
 * ↪️ **[Live Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_sports_replays)**
 * [Sofascore](https://www.sofascore.com/) or [⁠FlashScore](https://www.flashscore.com/) - Sport Scores, Standing & Schedules
@@ -383,7 +383,7 @@
 * [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) - Compare / Book Flights
 * [AZair](https://www.azair.eu/) - Compare / Search European & Middle East Flights
-* [⁠SeatMaps](https://seatmaps.com/) - Flight Seat Data / Reviews
+* [⁠AeroLOPA](https://www.aerolopa.com/) or [⁠SeatMaps](https://seatmaps.com/) - Flight Seat Maps / Features / Reviews
 * [seats.aero](https://seats.aero/) - Flight Search Engine / [X](https://x.com/seatsaero) / [Discord](https://discord.gg/PaHdCqb7eh)
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
@@ -504,7 +504,6 @@
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
 * [ClearOutside](https://clearoutside.com/) - Weather Visibility Tracker
 * [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
-* [Light Pollution Map](https://lightpollutionmap.info/) or [lightpollutionmap](https://lightpollutionmap.app) - Light Pollution Maps
 * [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution and Dark Skies
 * [Electricity Maps](https://app.electricitymaps.com/map) - Electricity CO₂ Emissions Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine
@@ -1009,7 +1008,7 @@
 * [larajobs](https://larajobs.com/) - Find Laravel Jobs
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
+* [Interviews.school](https://interviews.school/) - Interview Preparation Guides
 * [Interview Warmup](https://grow.google/grow-your-career/articles/interview-tips/) - Interview Practice
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
@@ -1490,6 +1489,7 @@
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [MyCast](https://www.mycast.io/) - Dream Casting Discussions
+* [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.com/) - Specialty Forums
 * [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gaming Forums
