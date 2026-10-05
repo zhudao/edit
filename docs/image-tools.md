@@ -52,7 +52,8 @@
 * ⭐ **[Rembg](https://github.com/danielgatis/rembg)** / Background Remover / Windows, macOS, Linux, Docker
 * ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [wipe.photos](https://wipe.photos/) or [HAMA](https://www.hama.app/) - Object Removers / Web
-* [Pixelcut](https://www.pixelcut.ai/) - Background Remover / Web
+* [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
+* [Pixelcut](https://www.pixelcut.ai/background-remover) - Background Remover / Web
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
 
@@ -87,7 +88,7 @@
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
 * [⁠Lumo](https://lumo-flt.vercel.app/) - ASCII, Dot, Braille, Block, Line, etc
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
-* [⁠Collaigo](https://www.collaigo.com/)- Collage Maker / [Discord](https://discord.gg/WbVXpRkWZv)
+* [⁠Collaigo](https://www.collaigo.com/) - Collage Maker / [Discord](https://discord.gg/WbVXpRkWZv)
 * [VHS-Engine](https://vhs-engine.netlify.app/) - VHS Effect Editor ⁠
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator / Windows, macOS, Linux
@@ -418,7 +419,7 @@
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[Downloader.la](https://downloader.la/)** or [DownPic](https://downpic.cc) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
+* ⭐ **[Unsplash](https://unsplash.com/)** - Stock Photos / Royalty-Free
 * [Pixabay](https://pixabay.com/) - Stock Photos
 * [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
@@ -583,6 +584,7 @@
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
+* [⁠AutoRemesher](https://github.com/huxingyi/autoremesher) - Automatic Quad Remeshing Tool
 * [Ninja Ripper](https://gamebanana.com/tools/5638) / [2](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
 
 ***
@@ -812,6 +814,7 @@
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
 * [GIFYU](https://gifyu.com/) - 50MB (100MB w/ Account) / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
+* [⁠AnonPic](https://anonpic.net/) - 32MB / Forever
 * [⁠ImageUpload](https://imageupload.app/) - 32MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
 * [⁠Img Fish](https://img.fish/) - 95MB / Forever
