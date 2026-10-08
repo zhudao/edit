@@ -121,7 +121,7 @@
 * [FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
 * [r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
-* [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - Games
+* [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - Games / [Extension](https://gg.deals/extension/) / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * [GamerPower](https://www.gamerpower.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/notifications) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
@@ -401,7 +401,7 @@
 * 🌐 **[Soar](https://soaratlas.com/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[nakarte](https://nakarte.me/)** - Multi-Map Aggregator
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [⁠Institute for the Study of War](https://understandingwar.org/), [ACLED](https://acleddata.com/conflict-data), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠SitDeck](https://sitdeck.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
+* ⭐ **[⁠Institute for the Study of War](https://understandingwar.org/)**, **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/conflict-data), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠SitDeck](https://sitdeck.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [Terraink](https://terraink.app/) / [GitHub](https://github.com/yousifamanuel/terraink), [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster / Art Generators
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
@@ -453,7 +453,7 @@
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
 * [⁠London Live](https://london.pengrubin.com/) - London Public Transport Map
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map / [GitHub](https://github.com/nagix/mini-tokyo-3d)
-* [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) or [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) - Hong Kong Public Transport Maps
+* [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) or [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) - Hong Kong Public Transport Maps
 * [Mini Map Macau](https://mini-map-macau.app/) - Macau Public Transport Map / [GitHub](https://github.com/asdfghj1237890/mini-macau)
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
@@ -671,7 +671,7 @@
 * [AllSides](https://www.allsides.com/) - Political News Aggregators
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
-* [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor, [OSIRIS](https://osirisai.live/), [⁠Conflictly](https://www.conflictly.app/) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
+* [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor), [OSIRIS](https://osirisai.live/), [⁠Conflictly](https://www.conflictly.app/) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
 * [SPIDR](https://spidr.today/)
 * [NewsNow](https://www.newsnow.co.uk/)
 * [SkimFeed](https://skimfeed.com/)
@@ -1281,7 +1281,7 @@
 ## ▷ Games
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
-* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multi-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
+* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multi-Platform / [Extension](https://gg.deals/extension/) / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Extension](https://augmentedsteam.com/) / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠Dark Pattern Games](https://www.darkpattern.games/) - Addictive Mobile Game Mechanic Avoidance Database
@@ -1325,11 +1325,13 @@
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
 * [Misprint](https://www.misprint.com/) - Buy / Sell Pokémon Cards
 * [⁠ThePriceDex](https://www.thepricedex.com/) - Pokémon Card Price Tracking
+* [PkmnCards](https://pkmncards.com/), [Pokéllector](https://www.pokellector.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
 * [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
+* [⁠Brickfact](https://brickfact.com/) - LEGO Set Database / Price Tracker
 * [⁠MinifigScan](https://pacolabs.com/MinifigScan/) - LEGO Minifigure Blind Box Identification Tool
 * [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
@@ -1684,7 +1686,6 @@
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
-* [Odyssey](https://experience.odyssey.ml/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
@@ -1725,7 +1726,6 @@
 ## ▷ Interesting
 
 * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_learning_sites)**
-* ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending AI Conversations
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Topsters](https://topsters.org/), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Ranked Lists
 * ⭐ **[TierMaker](https://tiermaker.com/)**, [GOATY](https://goaty.gg/) or [OpenTierBoy](https://www.opentierboy.com/) / [GitHub](https://github.com/infinia-yzl/opentierboy) - Create / Explore Tier Lists
 * [Wiki List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Index of Wiki Lists
@@ -1743,6 +1743,7 @@
 * [⁠Internet Checkpoint](https://internetcheckpoint.page/) - Archive of taia777 "Internet OST Checkpoints" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)
 * [⁠moltbook](https://www.moltbook.com/) - A Social Network for AI Agents
 * [Chirper](https://chirper.ai/) - AI Generated X.com
+* [InfiniteConversation](https://infiniteconversation.com/) - Never-Ending AI Conversations
 * [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
 * [⁠Museum of Failure](https://museumoffailure.com/) - Failed Products / Services History
 * [⁠Detective Board](https://www.detectiveboard.io/) - Make / Explore Community Detective Boards

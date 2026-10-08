@@ -727,11 +727,11 @@
 * **Note** - The following options require an official Minecraft account to use.
 
 ***
-
 * 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* [⁠OneClient](https://polyfrost.org/projects/oneclient) - Feature-Rich Launcher
 * [ATLauncher](https://atlauncher.com/) / [Discord](https://discord.com/invite/B7TrrzH) / [GitHub](https://github.com/ATLauncher/ATLauncher), [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic), [FjordLauncher](https://github.com/unmojang/FjordLauncher) or [PandoraLauncher](https://pandora.moulberry.com/) / [GitHub](https://github.com/Moulberry/PandoraLauncher) - Desktop Modpack Launchers
-* [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher), [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) / [Note](https://i.ibb.co/DDZdRHMf/kckgkvcd.png), [WineGDK](https://github.com/Weather-OS/WineGDK) / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) or [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launchers for Windows, macOS, Linux
+* [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher), [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) / [Note](https://i.ibb.co/DDZdRHMf/kckgkvcd.png), [WineGDK](https://github.com/Weather-OS/WineGDK) / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) or [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launchers / Windows, macOS, Linux
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) / [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) / [Discord](https://discord.gg/5ptqkyZxEy) or [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launchers / Android, iOS
 
 ***
@@ -1158,6 +1158,7 @@
 
 * ⭐ **[RoSeal](https://www.roseal.live/)** / [Discord](https://discord.gg/YemzCFaQPC) / [GitHub](https://github.com/RoSeal-Extension/RoSeal), [RoValra](https://rovalra.com/) / [Discord](https://discord.gg/aw6rEnFSjV) / [GitHub](https://github.com/NotValra/RoValra), [RoLocate](https://oqarshi.github.io/Invite/rolocate/) / [GitHub](https://github.com/Oqarshi/RoLocate), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) / [Discord](https://discord.com/invite/XMHn9zV3UA) or [RoPro](https://ropro.io/) / [Discord](https://discord.com/invite/8JXKupGY89) - Enhance Roblox Website / Add Features / Extensions
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app) - Roblox Player + Studio Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
+* [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Rolimon's](https://www.rolimons.com/games) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Find Roblox Games
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper

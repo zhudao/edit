@@ -1420,7 +1420,7 @@
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
 * [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
 * [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio / Signup 
-* [SomosMovies](https://somosmovies.org/) -  Movies / TV / 1080p
+* [SomosMovies](https://somosmovies.org/) - Movies / TV / 1080p
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
 * [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino
@@ -1491,10 +1491,9 @@
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)
-* [Doramasflix](https://doramasflix.co/) - Movies / TV
 * [⁠Descargatepelis](https://descargatepelis.com/) - Movies / TV / [Telegram](https://t.me/descargatepelis_oficial)
 * [fuegocine](https://www.fuegocine.com//) - Movies / TV / [Telegram](https://t.me/Cine_Fuego)
-* [⁠Pelisgo](https://pelisgo.online/) -  Movies / TV / [Telegram](https://t.me/pelisgochat)
+* [⁠Pelisgo](https://pelisgo.online/) - Movies / TV / [Telegram](https://t.me/pelisgochat)
 * [⁠El Videoclub Argento](https://www.elvideoclubargento.com.ar/) - Argentine Films
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
@@ -1660,7 +1659,6 @@
 * [Turkish123](https://ahs.turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
 * [Anizm](https://anizm.net/) - Anime
-* [TR Anime İzle](https://www.tranimeizle.io/) - Anime / Region Locked
 * [⁠AniHub](https://anihub.com.tr/) - Anime / Region Locked
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons
