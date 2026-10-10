@@ -14,7 +14,7 @@
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / Torrents / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * ⭐ **[Unglue.it](https://unglue.it/)** - Books
-* ⭐ **[Rave Search](https://ravebooksearch.com/)**, [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
+* [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [Open Library](https://openlibrary.org/) - Books / [GitHub](https://github.com/internetarchive/openlibrary)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
@@ -211,7 +211,7 @@
 ## ▷ Light Novels
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#novels)** - Light Novel Site Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/section/novel)**, [2](https://everythingmoe.org/section/novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/novel)** - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[NovelCool](https://www.novelcool.com/)** - Online Reading
 * ⭐ **[WuxiaClick](https://wuxia.click/)** - Online Reading
@@ -325,7 +325,7 @@
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/) / **[Warning / Link Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Torrents / [Invites](https://www.myanonamouse.net/inviteapp.php) / [Ratio Warnings](https://greasyfork.org/en/scripts/416189)
-* ⭐ **[Rave Search](https://ravebooksearch.com/index-audiobooks)** or **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
+* [Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
@@ -412,7 +412,7 @@
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)**, [2](https://everythingmoe.org/#section-manga) - Manga Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)** - Manga Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
@@ -434,6 +434,7 @@
 * [Mangapill](https://mangapill.com/) / [GitHub](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
+* [Toonkotsu](https://toonkotsu.com/)
 * [Rive Manga](https://www.rivestream.app/manga), [2](https://rivestream.ru/manga) / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [MangaTown](https://www.mangatown.com/)
 * [⁠JustManga](https://justmanga.cc/)
@@ -543,7 +544,6 @@
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [⁠Japanese Wiki Corpus](https://www.japanesewiki.com/) - Japanese Culture / History Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
-* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Trading / Stocks
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
 
 ***

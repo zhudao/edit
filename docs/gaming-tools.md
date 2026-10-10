@@ -29,7 +29,6 @@
 * [⁠The Playstation Datacenter](https://psxdatacenter.com/) - Playstation Data Index 
 * [FRAMED](https://framedsc.com/index.htm) - In-Game Screenshotting Tips
 * [NIWA](https://www.niwanetwork.org/) - Nintendo Independent Wiki Alliance / [Discord](https://discord.gg/59Mq6qB)
-* [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [The Models Resource](https://models.spriters-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites / [Discord](https://discord.gg/tsr)
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
@@ -509,6 +508,7 @@
 * [CryMP](https://crymp.org/) - Crysis 1 Multiplayer Revival / [Discord](https://discord.gg/kY8hb2n) / [GitHub](https://github.com/crymp-net/)
 * [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
+* [OpenFusion](https://openfusion.dev/) - FusionFall Server Revival / [GitHub](https://github.com/OpenFusionProject/OpenFusion)
 * [⁠Cypress](https://github.com/PvZ-Cypress/Cypress) or [GardenGate](https://github.com/nocss42/GardenGate) / [Discord](https://discord.gg/sEs9NcUrF9) - PvZ Garden Warfare 1 + 2 and Battle for Neighborville Private Servers
 * [OpenExonaut](https://rentry.co/FMHYB64#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
@@ -718,6 +718,7 @@
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
 * ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
+* [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / [Guides](https://mcdoc.site/) / Windows
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Legacy & Console Edition Launchers
 
 ***
@@ -731,7 +732,8 @@
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * [⁠OneClient](https://polyfrost.org/projects/oneclient) - Feature-Rich Launcher
 * [ATLauncher](https://atlauncher.com/) / [Discord](https://discord.com/invite/B7TrrzH) / [GitHub](https://github.com/ATLauncher/ATLauncher), [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic), [FjordLauncher](https://github.com/unmojang/FjordLauncher) or [PandoraLauncher](https://pandora.moulberry.com/) / [GitHub](https://github.com/Moulberry/PandoraLauncher) - Desktop Modpack Launchers
-* [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher), [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher), [WineGDK](https://github.com/Weather-OS/WineGDK) / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) or [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launchers / Windows, macOS, Linux
+* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS, Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) 
+* [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launcher / Linux
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) / [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) / [Discord](https://discord.gg/5ptqkyZxEy) or [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launchers / Android, iOS
 
 ***
@@ -1115,7 +1117,7 @@
 * [MK8DX Builder](https://mk8dxbuilder.com/) - Kart Builder
 * [MKCentral](https://www.mariokartcentral.com/mkc/) - Mario Kart Tournaments
 * [r/MarioKart](https://www.reddit.com/r/mariokart/) or [r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
-* [Mario Kart World Discord](https://discord.gg/mario-kart-world) - Mario Kart World Lobbies / Community / Avoids Intermission Tracks
+* [Mario Kart World Discord](https://discord.com/invite/HNnMhE53zj) - Mario Kart World Lobbies / Community / Avoids Intermission Tracks
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKWii Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [Mario Kart Wii Deluxe](https://mkwiiki.org/wiki/Mario_Kart_Wii_Deluxe) - Custom MKWii Tracks / [Discord](https://discord.com/invite/tRVhfWSkf2)
 * [TTs Online](https://redd.it/ie6gi7) - MKWii Online Time Trials Mod
@@ -1202,7 +1204,7 @@
 * 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
 * ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases / [Discord](https://discord.com/invite/zp2q7UFuWh)
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Datamining / Modding Tool
-* [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltarune + Undertale Mobile Ports
+* [Undertale: New Hope](https://discord.gg/Xahw79DNDE) - Deltarune + Undertale Mobile Ports
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
 * [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) or [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Ingame Dialogue Dump
 * [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
