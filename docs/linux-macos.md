@@ -161,7 +161,7 @@
 * ⭐ **[Btop](https://github.com/aristocratos/btop)** or [s-tui](https://github.com/amanusk/s-tui) - System Resource Monitors
 * ⭐ **[MangoHud](https://github.com/flightlessmango/MangoHud)** - System Resource Monitor Overlay / [GUI](https://github.com/radiolamp/mangojuice)
 * ⭐ **[⁠LACT](https://github.com/ilya-zlobintsev/LACT/)** - GPU Config + Monitor
-* ⭐ **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, [Archey4](https://github.com/HorlogeSkynet/archey4), [Anifetch](https://github.com/Notenlish/anifetch), [Hyfetch](https://github.com/hykilpikonna/hyfetch), [Macchina](https://github.com/Macchina-CLI/macchina) or [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - System Info Displays / Fetch Tools
+* ⭐ **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, [Archey4](https://github.com/HorlogeSkynet/archey4), [Anifetch](https://github.com/Notenlish/anifetch), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [Macchina](https://github.com/Macchina-CLI/macchina) - System Info Displays / Fetch Tools
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** or [⁠Snapper](https://github.com/openSUSE/snapper) - System Restore / Backup / Snapshots
 * [Impression](https://gitlab.com/adhami3310/Impression) or [Caligula](https://github.com/ifd3f/caligula) - Create Bootable USB Linux Drives
 * [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
@@ -705,7 +705,7 @@
 * [TheBoringNotch](https://theboring.name/) - Turn Notch into Audio Controller / Calendar / [Discord](https://discord.gg/GvYcYpAKTu) / [GitHub](https://github.com/TheBoredTeam/boring.notch/)
 * [⁠Kaset](https://github.com/sozercan/kaset/) or [WAVE](https://waveapp.pages.dev/) / [GitHub](https://github.com/ayman708-UX/WAVE) - YouTube Music Clients
 * [⁠Volta](https://volta-music.com/) - Audio Streaming / Player / [Discord](https://discord.com/invite/HBuCQyBqE2)
-* [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
+* [Nuage](https://github.com/lbrndnr/nuage-macos) - SoundcCoud Client
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [EQMac](https://eqmac.app/) - Audio Equalizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
@@ -738,7 +738,6 @@
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [appnetica](https://appnetica.com/?platform=mac) - Mac Games
-* [⁠MacSteam](https://github.com/Selectively11/macSteam) - Steam Game + DLC Unlocker
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
 * [PortingKit](https://www.portingkit.com/) - Run Windows Games on Mac
