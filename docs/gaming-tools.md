@@ -739,7 +739,7 @@
 * ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
 * [LeviLauncher](https://docs.levimc.org/LeviLauncher/) / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://discord.gg/VqQaC8vWz8), [3](https://pkg.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / [Guides](https://mcdoc.site/) / Windows
- [LeviLauncher Android](https://github.com/0Sombra666/LeviLaunchroidUnlocked) - Bedrock Launcher (1.21.80+) / Android / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://discord.gg/VqQaC8vWz8), [3](https://pkg.levimc.org/)
+* [LeviLaunchroidUnlocked](https://github.com/0Sombra666/LeviLaunchroidUnlocked) - Bedrock Launcher (1.21.80+) / Android / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://discord.gg/VqQaC8vWz8)
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Legacy & Console Edition Launchers
 
 ***
@@ -891,7 +891,6 @@
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
-* [SmiteGuru](https://smite.guru/) - Smite Leaderboards
 * [RuneForge](https://runeforge.dev/) - Custom LoL Skins
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
@@ -901,7 +900,7 @@
 ## ▷ Fighting Tools
 
 * 🌐 **[⁠The Melee Library](https://www.meleelibrary.com/)** - Super Smash Bros. Melee Learning Resources
-* [⁠The Fighting Game Glossary](https://glossary.infil.net/) - Fighting Game Term Glossary
+* 🌐 **[⁠The Fighting Game Glossary](https://glossary.infil.net/)** - Fighting Game Term Glossary
 * [⁠FAT Online](https://fullmeter.com/fatonline), [⁠Mizuumi](https://mizuumi.wiki/) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
 * [⁠DustLoop](https://www.dustloop.com/) - Guides for Arc System Works' Games / [Discord](https://discord.com/invite/d9tgMZg)
 * [⁠Melee Calculator](https://ikneedata.com/calculator.html) - Melee Frame Data Calculator
@@ -1041,7 +1040,7 @@
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** or **[⁠NookNet](https://nooknet.net/)** / [Discord](https://discord.com/invite/RwNrqmH) - Animal Crossing: New Horizons Resources / Guides
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - Football Manager Resources / Community
-* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools, etc.
+* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Teamfight Tactics Guides, Stats, Tools, etc.
 * [⁠Elden Ring Wiki](https://eldenring.wiki.gg/) - Elden Ring Wiki / Encyclopedia
 * [Factorio Wiki](https://wiki.factorio.com/) - Factorio Info Database / Wiki
 * [Rust Clash](https://wiki.rustclash.com/) - Rust Info Database / Wiki
@@ -1103,7 +1102,6 @@
 * ⭐ **[CSNADES](https://csnades.gg/)** or [CS2Util](https://www.cs2util.com/) - CS2 Nade Lineups
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [CS2 Weapon Spreadsheet](https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/) - Weapon Stats / Prices
-* [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
 * [CS2 Browser](https://cs2browser.net/) or [CS2 Server Picker](https://github.com/FN-FAL113/cs2-server-picker) - Counter-Strike 2 Server Browser
 
 ***
