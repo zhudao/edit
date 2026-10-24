@@ -248,6 +248,7 @@
 * [AI Horde](https://stablehorde.net/) - Stable Diffusion GPU Horde / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/) / [Discord](https://discord.gg/3DxrhksKzn) / [GitHub](https://github.com/Haidra-Org/AI-Horde)
 * [IOPaint](https://www.iopaint.com/) - Image Fill / Item Removal / [Colab](https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing)
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
+* [⁠SynthID](https://synthid.com/) - Identify AI SynthID Watermarks (Google, Nvidia, OpenAI, Kakao Only)
 
 ***
 
@@ -378,6 +379,14 @@
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [⁠WhichLLM](https://github.com/Andyyyy64/whichllm) - LLM Performance Comparison Tool
 * [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
+
+***
+
+## ▷ Model Weights
+
+* [⁠Pirate Face](https://pirateface.co/) - Model Weight Torrents 
+* [Hugging Face](https://huggingface.co/) - Open-Source AI Model Hub, Datasets & Spaces
+* [ModelScope](https://modelscope.cn/) - Open-Source AI Model Repository
 
 ***
 

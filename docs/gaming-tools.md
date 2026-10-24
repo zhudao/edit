@@ -878,22 +878,23 @@
 
 ## ▷ MOBA Tools
 
-* ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
-* ⭐ **[DPM.LOL](https://dpm.lol/)**, **[U.GG](https://u.gg/)**, [KoreanBuilds](https://en.koreanbuilds.net/), [EuropeanBuilds](https://en.europeanbuilds.net/), [LoLTheory](https://loltheory.gg/), [MurderBridge](https://www.murderbridge.com/) or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Builds / Tiers
-* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** or [⁠LoL Tracker](https://lol-tracker.com/) - LoL Competitive Stats / Team Trackers
-* ⭐ **[⁠Rose](https://github.com/Alban1911/Rose)** - LoL Skin Manager / Unlocker / [Dependencies](https://github.com/LeagueToolkit/ltk-manager/tree/main/src-tauri/resources) / [Discord](https://discord.com/invite/roseskins)
-* [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
+* ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Stats / Match History / Rankings
+* ⭐ **[DPM.LOL](https://dpm.lol/)** or **[U.GG](https://u.gg/)** - LoL Builds / Tier Lists / Champion Stats
+* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Esports Statistics
+* ⭐ **[Rose](https://github.com/Alban1911/Rose)** - LoL Skin Manager / Unlocker / [Dependencies](https://github.com/LeagueToolkit/ltk-manager/tree/main/src-tauri/resources) / [Discord](https://discord.com/invite/roseskins)
 * [LoL Wiki](https://wiki.leagueoflegends.com/) - Official LoL Wiki
-* [LoL Math](https://lolmath.net/) - LoL Item Optimizer / [Discord](https://discord.com/invite/BpGpdzw)
-* [iTero](https://www.itero.gg/) - LoL AI Coach
-* [DraftGap](https://draftgap.com/) - LoL Draft Analysis Tools
-* [Mobalytics](https://mobalytics.gg/) or [DeepLoL](https://www.deeplol.gg/) - Game Performance & Stats Analyzer
-* [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
-* [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
-* [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
-* [RuneForge](https://runeforge.dev/) - Custom LoL Skins
+* [LoLalytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Builds / Advanced Champion Statistics
+* [DeepLoL](https://www.deeplol.gg/) - LoL Player Performance / Champion Stats
+* [MobaFire](https://www.mobafire.com/) - LoL Champion Guides / Builds
+* [KoreanBuilds](https://en.koreanbuilds.net/) or [EuropeanBuilds](https://en.europeanbuilds.net/) - High-Elo LoL Builds
+* [Porofessor](https://porofessor.gg/) - Live LoL Game Stats / Companion App
+* [LoL Math](https://lolmath.net/) / [Discord](https://discord.com/invite/BpGpdzw) - LoL Item Optimizer / Theorycrafting
+* [LoLTheory](https://loltheory.gg/), [iTero](https://www.itero.gg/) or [DraftGap](https://draftgap.com/) - LoL Draft Analysis
+* [LoL Tracker](https://lol-tracker.com/) - LoL Team Statistics / Flex Queue Tracking
+* [RuneForge](https://runeforge.dev/) - Custom LoL Skins / Mods
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
+* [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Statistics / Hero Builds
 
 ***
 
@@ -1205,7 +1206,7 @@
 
 * ⭐ **[RoSeal](https://www.roseal.live/)** / [Discord](https://discord.gg/YemzCFaQPC) / [GitHub](https://github.com/RoSeal-Extension/RoSeal), [RoValra](https://rovalra.com/) / [Discord](https://discord.gg/aw6rEnFSjV) / [GitHub](https://github.com/NotValra/RoValra), [RoLocate](https://oqarshi.github.io/Invite/rolocate/) / [GitHub](https://github.com/Oqarshi/RoLocate), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) / [Discord](https://discord.com/invite/XMHn9zV3UA) or [RoPro](https://ropro.io/) / [Discord](https://discord.com/invite/8JXKupGY89) - Enhance Roblox Website / Add Features / Extensions
 * ⭐ **[Fishstrap](https://fishstrap.app)** or **[Bloxstrap](https://bloxstraplabs.com/)** / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap) - Roblox Player + Studio Bootstrapper
-* [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
+* [Sober](https://sober.vinegarhq.org/) or [⁠Nightcap](https://github.com/CoderDayton/nightcap) - Roblox on Linux / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Rolimon's](https://www.rolimons.com/games) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Find Roblox Games
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
