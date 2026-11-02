@@ -17,7 +17,7 @@
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Steam Hover](https://greasyfork.org/scripts/580613) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
-* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
+* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Pre-Installed / Achievements / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[⁠Kryoto](https://kryo.to/)** - Download / Pre-Installed / [Launcher](https://kryo.to/desktop) / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
@@ -388,8 +388,8 @@
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NSWGame](https://nswgf.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [Tensearch](https://tensear.ch/) - ROMs / Switch
-* [ROMSLAB](https://romslab.com/) - ROMs / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
-* [NXbrew](https://nxbrew.net/) - ROMs / Switch
+* [ROMSLAB](https://romslab.com/) - ROMs / Switch 2 / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
+* [NXbrew](https://nxbrew.net/) - ROMs / Switch 2 / Switch
 * [NSWPURE](https://nswpure.com/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
@@ -628,6 +628,7 @@
 * [MahjongFun](https://www.mahjongfun.com/), [⁠Mahjong Solitaire](https://mahjong-solitaire.app/), [⁠Voxjong](https://voxjong.com/), [Classic Mahjong](https://classic-mahjong.com/), [The Mahjong](https://themahjong.com/) or [Mahjong 4 Friends](https://mahjong4friends.com/) - Mahjong Solitaire
 * [lishogi.org](https://lishogi.org/) - Shogi / [Discord](https://discord.gg/YFtpMGg3rR) / [GitHub](https://github.com/WandererXII/lishogi)
 * [lidraughts.org](https://lidraughts.org/) - Multiplayer Checkers / [GitHub](https://github.com/RoepStoep/lidraughts)
+* [⁠The Old King's Crown](https://oldkingscrown.fly.dev/) - ⁠The Old King's Crown Browser Adaptation
 * [Colonist](https://colonist.io/) - Settlers of Catan Board Game / [Subreddit](https://www.reddit.com/r/Colonist/) / [Discord](https://discord.gg/colonist)
 * [Party Project](https://char64.itch.io/partyproject) - Mario Party-Style Tabletop Games / [Discord](https://discord.gg/nhUQwpGEQR)
 * [Richup.io](https://richup.io/) - Monopoly-Style Board Game / [Discord](https://discord.gg/r6uJ6bq8ZH)
@@ -891,7 +892,7 @@
 * [Eaglercraft.dev](https://eaglercraft.dev/) - Eaglercraft Client Directory & Launcher
 * [WebMC](https://webmc.xyz/), [2](https://webmc.colbster937.dev/), [3](https://webmc-launcher.vercel.app/) - Eaglercraft Multi-Version Launcher
 * [EaglerCraftX](https://client.eaglercraft.win/) - Eaglercraft Mirror / Alt Versions
-* [MessCraft](https://mess.eu.org/) - Eaglercraft Server Network / [Site List](https://deev.is/) / [Discord](https://discord.com/invite/kbzUdZQWgd)
+* [MessCraft](https://mess.eu.org/) - Eaglercraft Server Network / [Discord](https://discord.com/invite/kbzUdZQWgd)
 * [Hiracraft](https://craft.hira.im/) - Eaglercraft Mirror
 * [Classic Launcher](https://radmanplays.github.io/classic-launcher/) or [Minecraft Classic](https://classic.minecraft.net/) - Browser-Based Pre-Classic / Classic Minecraft
 * [ClassiCube](https://www.classicube.net/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube)
