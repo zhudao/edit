@@ -464,6 +464,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[⁠FlixVison](https://flixvision.xyz/)** - Movies / TV / Anime
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
@@ -478,7 +479,6 @@
 * [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [1jour1film0626](https://1jour1film0926.cyou/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
-* [⁠FlixVison](https://flixvision.xyz/) - Movies / TV / Anime
 * [⁠streaming-integrale](https://streaming-integrale.com/) - Movies / TV / Anime
 * [flemmix](https://flemmix.party/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
 * [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
@@ -747,6 +747,7 @@
 * [Abibli](https://abibli.com/) - Movies / TV
 * [myflixbd](https://myflixbd.to/) - Movies / TV / Anime
 * [PRMovies](https://prmovies.exchange/) - Movies / TV / Anime
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [1tamilyogi](https://1tamilyogi.ro/) - Movies / TV
@@ -844,7 +845,7 @@
 
 ## ▷ Streaming
 
-* [StreamingUnity](https://streamingunity.win/it) - Movies / TV / Anime
+* [StreamingUnity](https://streamingunity.fun/it) - Movies / TV / Anime
 * [StreamingCommunity](https://streamingcommunityz.photos/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29) / [Telegram](https://t.me/+YID6ZoJtgjg5NGEx)
 * [CB01](https://cb01uno.cyou/) - Movies / TV / Dub / 1080p / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [7Movies](https://7movies.ac/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
@@ -971,7 +972,8 @@
 
 ## ▷ Streaming
 
-* [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
+* [OnDemandKorean](https://www.ondemandkorea.com/) - Movies / TV / 720p
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Chzzk](https://chzzk.naver.com/) - Live Streams
 * [Naver](https://tv.naver.com/)
@@ -1722,6 +1724,7 @@
 ## ▷ Streaming
 
 * [uzmax.net](https://uzmax.net/) - Movies / TV
+* [FreeKino](https://freekino.net/) - Movies / TV
 * [AsilMedia](https://asilmedia.org/) - Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar)
 
 ## ▷ Reading
@@ -1751,10 +1754,10 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim.tech/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
 * [⁠Sofaflix](https://sofaflix.rest/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [⁠Tram Phim](https://tramphim.app/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
 * [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
 * [HCMUT ⁠Courseware](https://www.hcmut-courseware.org/courses) - Unofficial HCMUT Courses

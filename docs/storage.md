@@ -48,19 +48,6 @@
 
 ***
 
-## Dynamic DNS Services / Subdomains
-
-* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/products/dns/)**
-* ⭐ **[deSEC](https://desec.io/)**
-
-[DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
-
-### Subdomains Services
-
-[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://upset.dev/), [GetFreeDomain](https://www.getfreedomain.name/)
-
-***
-
 ## EmulatorJS / NeptunJS
 
 * **Note** - These serve as frontends for the EmulatorJS + NeptunJS emulator APIs.
@@ -85,29 +72,6 @@
 
 ***
 
-## Free DNS Resolvers
-
-* 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://acavalin.com/p/free_dns) / [3](https://publicdnsserver.com/) / [4](https://public-dns.info/)
-* ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
-* ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection / [GitHub](https://github.com/Quad9DNS)
-* [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / [GitHub](https://github.com/PUT-Request/Artemis/)
-* [Unbound](https://www.nlnetlabs.nl/projects/unbound/) - Self-Hosted, Validating, Recursive, Caching Resolver / [GitHub](https://github.com/NLnetLabs/unbound)
-* [Control D](https://controld.com/free-dns) / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
-* [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
-* [Tiarap](https://tiar.app/) - Privacy-Friendly DNS Resolver
-* [Rethink DNS](https://rethinkdns.com/configure)
-* [DNSBunker](https://dnsbunker.org/)
-* [HaGeZi DNS](https://github.com/hagezi/dns-servers)
-* [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
-* [DNS for Family](https://dnsforfamily.com/)
-* [DNS Forge](https://dnsforge.de/)
-* [Hurricane Electric](https://dns.he.net/)
-* [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
-* [dns.sb](https://dns.sb/)
-
-***
-
 ## Free VPN Configs
 
 * **Note** - These servers are community sourced, do not use with sensitive data, or ideally just self-host them if you can.
@@ -116,7 +80,6 @@
 
 * [F0rc3Run](https://forcerun.page.gd/) / [GitHub](https://github.com/F0rc3Run/F0rc3Run)
 * [V2Nodes](https://v2nodes.com/)
-* [v2ray servers](https://github.com/ebrasha/free-v2ray-public-list)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
