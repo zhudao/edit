@@ -227,11 +227,11 @@
 ***
 
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
-* ⭐ **[Aim400kg](https://aim400kg.com/)**, [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[Speedrun](https://www.speedrun.com/)** - Speedrunning Streams, Leaderboards, Resources, etc.
 * [Steam Guides](https://steamcommunity.com/guides), [GameGuides](https://www.gamerguides.com/), [DotGG](https://dotgg.gg/), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [⁠TrueAchievements](https://www.trueachievements.com/walkthroughs.aspx) - Full Game + Achievement Walkthroughs
 * [Voltaic](https://voltaic.gg/) - Aim Benchmark & Guides
+* [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * [⁠x76 Strafe Aim Guide](https://x76.gg/wiki/strafe-aim-guide/) - Strafe Aim Guide
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](https://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
@@ -508,7 +508,7 @@
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Servers / [Discord](https://discord.gg/MEwBW9U)
 * [SiMPLE](https://team-simple.org/forum/) - Battlefield 1942 Servers / [Discord](https://discord.team-simple.org/)
 * [Overwatch-Server-Selector](https://github.com/foryVERX/Overwatch-Server-Selector) - Overwatch Server Selector
-* [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A) / [GitHub](https://github.com/R2Northstar/Northstar/)
+* [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / Clean Files Required / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A) / [GitHub](https://github.com/R2Northstar/Northstar/)
 * [R1Delta](https://r1delta.net/) - Titanfall 1 Server Revival / [Discord](https://discord.com/invite/AFnMwrvPzV)
 * [CryMP](https://crymp.org/) - Crysis 1 Multiplayer Revival / [Discord](https://discord.gg/kY8hb2n) / [GitHub](https://github.com/crymp-net/)
 * [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
@@ -732,7 +732,7 @@
 * [Minekube Connect](https://connect.minekube.com/) / [Discord](https://discord.com/invite/HvQugYx) / [GitHub](https://github.com/minekube/connect-java) - Server Proxy
 * [GrimAC](https://modrinth.com/plugin/grimac) / [GitHub](https://github.com/GrimAnticheat/Grim) - Server Anti-Cheat
 * [MCJars](https://mcjars.app/) - Server Jar Archives
-* [ServerPackCreator](https://serverpackcreator.de/) / [Discord](https://discord.com/invite/JfsXK8qB95) / [GitHub](https://github.com/Griefed/ServerPackCreator) - Server Pack Creator
+* [ServerPackCreator](https://serverpackcreator.de/) / [GitHub](https://github.com/Griefed/ServerPackCreator) - Server Pack Creator
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Tracker
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Server Banner Updates
 

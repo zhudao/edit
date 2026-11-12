@@ -478,7 +478,7 @@
 
 ## ▷ Android on Linux
 
-* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [Magisk Installer](https://github.com/mistrmochov/WaydroidSU) / [WayDroid-ATV Images](https://github.com/WayDroid-ATV/waydroid-builds) / [GitHub](https://github.com/waydroid)
+* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [WayDroid-ATV Images](https://github.com/WayDroid-ATV/waydroid-builds) / [GitHub](https://github.com/waydroid)
 * [Redroid](https://github.com/remote-android/redroid-doc) or [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
@@ -626,6 +626,7 @@
 * [PortingKit](https://www.portingkit.com/) - Run Windows Games / Programs on Mac
 * [PlayCover](https://playcover.io/) - Run iOS Apps on Apple Silicon Macs / [GitHub](https://github.com/PlayCover/PlayCover)
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
+* [Latest](https://github.com/mangerlahn/latest) - Software Updater
 * [OrbStack](https://orbstack.dev/) - Docker Client
 * [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - Book Tracker
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
@@ -682,7 +683,6 @@
 * [⁠OldAppleStuff](https://oldapplestuff.com/) - Oldschool Software + Apple II Software
 * [ThriftMac](https://thriftmac.com/) - Freeware
 * [Sindre Sorhus](https://sindresorhus.com/apps/free) - Freeware
-* [Latest](https://github.com/mangerlahn/latest) - Software Updater
 
 ***
 

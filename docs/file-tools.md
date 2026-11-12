@@ -236,7 +236,7 @@
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
-* [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/DCE9Y4Nqv)
+* [⁠PDFKing](https://pdfking.app/) - Client-Side
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [PDFWix](https://pdfwix.com/), [2](https://pdfwix.github.io/pdfwix/) - Client-Side
@@ -335,7 +335,6 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.org/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
 * ⭐ **[Mocha](https://mocha.my/)** - 150GB (w/ Account) / 20GB / 30 Days After Last Download / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblock / [Discord](https://discord.gg/EPEFC6KkpF)
-* ⭐ **[0807](https://0807.st/)** or [0908](https://0908.st/) - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 60 Days After Last Download / [Discord](https://discord.com/invite/YSABtmnD7a)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
@@ -397,6 +396,7 @@
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [⁠SendGB](https://www.sendgb.com/) - 5GB / 7 Days
+* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 30 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
 * [⁠JuiceBox](https://box.juicey.dev/) - 15GB / 14 Days
 * [⁠Dosya Upload](http://www.dosyaupload.com/) - 4GB / 60 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
@@ -404,7 +404,6 @@
 * [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Codeberg](https://codeberg.org/Fijxu/patchy)
 * [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Workupload](https://workupload.com/) - 2GB / 90 Days
-* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Requires Email
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
 * [4d2.sh](https://4d2.sh/) - 1GB / 730 Days Max

@@ -888,7 +888,7 @@
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [MySpoti](https://github.com/kota-zo/myspoti) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
-* Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App), [2](https://github.com/LeNerd46/SpotifyPlus)
+* Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App)
 * [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
 * [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / [Root Requirements](https://github.com/kavishdevar/librepods#root-requirement)
 * [SongSync](https://github.com/Lambada10/SongSync) - Lyrics App
@@ -1073,7 +1073,7 @@
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 * [⁠Xangetsu](https://projectjust.xyz/xangetsu)
-* [⁠Tatakai](https://tatakai.me/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
+* [⁠Tatakai](https://tatakai.app/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
 * [⁠AniStation](https://www.anistation.top/)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [Mizuki](http://mizuki.to/) / [GitHub](https://github.com/Anisurge/App)
@@ -1161,7 +1161,7 @@
 * [SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
 * [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker / for macOS
 * [Scriptable](https://scriptable.app/) - Automation Script Tool / [Scripts / Widgets](https://github.com/dersvenhesse/awesome-scriptable), [2](https://shareable.vercel.app/)
-* [PureKFD](https://github.com/Lrdsnow/PureKFD) / [Discord](https://discord.gg/cCSwxqdvzx) or [Misaka](https://github.com/straight-tamago/misaka) / [Discord](https://discord.gg/mVrPxY3X6W) - iOS Customization Apps
+* [PureKFD](https://github.com/Lrdsnow/PureKFD) or [Misaka](https://github.com/straight-tamago/misaka) / [Discord](https://discord.gg/mVrPxY3X6W) - iOS Customization Apps
 * [iSkin](https://iskin.tooliphone.net/), [r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons without Shortcuts
 * [RoutineHub](https://routinehub.co/) - Shortcuts
@@ -1398,7 +1398,7 @@
 * [SpotC++](https://spotc.yodaluca.dev/) - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
 * [⁠Shrubify](https://shrubify.pages.dev/) - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/ShrubHub-iOS/Shrubify)
 * [⁠Vitrine](https://github.com/My-Name-Is-Jeff/vitrine) - Spotify / Ad-Free / Sideloaded
-* [⁠Taurus](https://github.com/samj-exe/taurus) - Spotify / Ad-Free / Sideloaded / [Discord](https://discord.gg/DVD7vZdDx)
+* [⁠Taurus](https://github.com/samj-exe/taurus) - Spotify / Ad-Free / Sideloaded
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [⁠Offline Music Player](https://apps.apple.com/app/id6756036292), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠Eclipse](https://eclipsemusic.app/) - Module-Based Streaming / [Discord](https://discord.gg/sNG37F27eY)
 * [Demus](https://demus.app/) - Streaming
@@ -1477,7 +1477,7 @@
 
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan)
-* [⁠Tatakai](https://tatakai.me/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
+* [⁠Tatakai](https://tatakai.app/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps

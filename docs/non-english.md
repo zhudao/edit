@@ -562,9 +562,8 @@
 * ⭐ **[S.TO](https://serienstream.to/)**, [2](https://serien.domains/) - TV / Anime / Dub / 720p
 * ⭐ **[Movie2k](https://movie2k.cx/)** - Movies / TV / Dub
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
-* [KinoX](https://www.kinox.to/), [2](https://www.kinos.to), [3](https://www.kinoz.to) - Movies / TV / Anime
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
-* [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime
+* [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime / Requires Sign-Up
 * [Filmo](https://filmo.to/) - Movies / TV / Anime / 720p / [Mirrors](https://filmo.domains/)
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [megakino3](https://megakino20.com/) - Movies / TV / Anime
@@ -691,7 +690,7 @@
 
 * ⭐ **[VegaMovies](https://1vegamovies.baby/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
-* ⭐ **[HDHub4u](https://hdhub4u.bi/)** - Movies / TV / 1080p / 4K
+* ⭐ **[HDHub4u](https://hdhub4u.fr/)** - Movies / TV / 1080p / 4K
 * ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[ToonsHub](https://www.toonshub.my.id/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
@@ -730,7 +729,7 @@
 * [TamilMV](https://www.1tamilmv.lease/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages / [Telegram](https://t.me/tmvog)
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p / VPN Required
 * [saicord](https://saicord.com/hi/) - Movies / TV
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.now/) - Tamil Movies / TV / Dub / 1080p / 720p
 * [1Shows](http://1shows.org), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
@@ -1485,12 +1484,12 @@
 
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Signup Required / Castilian / Latino
 * ⭐ **[PelisForte](https://pelisforte.se/)** - Movies / TV / [Telegram](https://t.me/+AoDIyo4alws1OGMx)
+* ⭐ **[Cinubo](https://cinubo.com/)** - Movies / TV / Anime / Signup Required / [Status](https://enlaces.ly/) / [Telegram](https://t.me/seriesly) / [Discord](https://discord.com/invite/pmDQYHxjnA)
 * ⭐ **[AnimeAV1](https://animeav1.com/)** - Anime
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
-* [Cinubo](https://cinubo.com/) - Movies / TV / Anime / Signup Required / [Status](https://enlaces.ly/) / [Telegram](https://t.me/seriesly) / [Discord](https://discord.com/invite/pmDQYHxjnA)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
 * [7Movies](https://7movies.ac/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
 * [LaMovie](https://lamovie.org/) - Movies / TV / Anime / [Telegram](https://t.me/centrodeactividades)
